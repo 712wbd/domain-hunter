@@ -1,0 +1,16 @@
+*.log
+*.pyc
+__pycache__/
+domain_report_*.json
+domain_report_*.txt
+.env
+config_local.json
+*.bak
+.vscode/
+.idea/
+
+checked_domains.json
+premium_results.json
+available_domains.json
+
+upload_to_github.py
