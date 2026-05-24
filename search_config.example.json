@@ -1,0 +1,15 @@
+{
+  "access_key_id": "YOUR_ALIYUN_ACCESS_KEY_ID",
+  "access_key_secret": "YOUR_ALIYUN_ACCESS_KEY_SECRET",
+  "max_workers": 5,
+  "base_delay": 0.8,
+  "max_retries": 5,
+  "save_interval": 50,
+  "premium_price_threshold": 100,
+  "premium_score_threshold": 70,
+  "include_short_domains": false,
+  "enable_cache": true,
+  "cache_max_age": 86400,
+  "auto_save_enabled": true,
+  "checkpoint_interval": 100
+}
